@@ -19,6 +19,3 @@ A **simple Python command-line weather app** that:
    python weather_app.py  
    ```  
 4. Enter a city name to get the weather details.  
-
-## Author  
-Himanshu Dhiman  
